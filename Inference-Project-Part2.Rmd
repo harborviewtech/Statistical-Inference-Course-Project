@@ -1,7 +1,5 @@
 ---
-title: "Coursera Statistical Inference Course Project Part 2"
-author: "kimnewzealand"
-date: "29 May 2017"
+title: "Statistical Inference Course Project - Part 2"
 output:
   pdf_document: default
   html_document: default
