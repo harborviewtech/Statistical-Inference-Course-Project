@@ -1,7 +1,5 @@
 ---
-title: "Coursera Statistical Inference Course Project Part 1"
-author: "kimnewzealand"
-date: "29 May 2017"
+title: "Statistical Inference Course Project - Part 1"
 output: pdf_document
 ---
 
@@ -25,7 +23,6 @@ library(ggplot2)
 
 ### 
 
- 
 
 * * *
 
@@ -33,7 +30,7 @@ library(ggplot2)
 
 1.1 Show the sample mean and compare it to the theoretical mean of the distribution.
 
-As per the instructions, the exponential distribution can be simulated in R with the function rexp(n, lambda) where lambda is the rate parameter. The simulation can be repeated multiple times using the repetition function.
+The exponential distribution can be simulated in R with the function rexp(n, lambda) where lambda is the rate parameter. The simulation can be repeated multiple times using the repetition function.
 
 The theoretical mean of exponential distribution is 1/lambda and the standard deviation is also 1/lambda. 
 
